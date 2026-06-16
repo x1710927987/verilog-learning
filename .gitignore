@@ -1,0 +1,22 @@
+﻿# Vivado generated files
+*.jou
+*.log
+*.str
+*.tmp
+*.zip
+
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+
+# Optional generated output folders
+*.gen/
+*.os/
+*.sdk/
+
+# Windows
+Thumbs.db
+desktop.ini
